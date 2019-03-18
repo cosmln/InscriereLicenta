@@ -1,0 +1,4 @@
+-Main page
+-Formular Inscriere
+-Administration page
+-Sign-up/ log-in page
